@@ -14,7 +14,7 @@ public class CardDto {
 
     @Override
     public String toString() {
-        return "CardDto{" +
+        return "{" +
                 "scheme='" + scheme + '\'' +
                 ", type='" + type + '\'' +
                 ", bank='" + bank + '\'' +
